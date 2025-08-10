@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deependu Pratap Singh</h1>
-<h3 align="center">A Passionate Software developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 - 🌱 I’m currently Studying  **Master of Computer Application From Babu Banarasi Das University,**
 
 - 👨‍💻 All of my projects are available at [https://deependupratapsingh.netlify.app/](https://deependupratapsingh.netlify.app/)
@@ -22,3 +22,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deependu4161&show_icons=true&locale=en" alt="Deependu4161" /></p>
+
